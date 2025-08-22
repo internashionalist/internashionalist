@@ -1,4 +1,3 @@
-# About Me:
 ### Jaded Bartender || Reluctant Realtor || Aspiring Software Engineer
 
 
