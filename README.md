@@ -1,6 +1,6 @@
 # Nash Thames
 
-### Jaded Bartender || Aspiring Software Engineer
+### Low-Level Programming. High-Level Performance.
 
 
 ## Socials:
