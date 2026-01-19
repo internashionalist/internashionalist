@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/internashionalist/internashionalist/main/assets/banner.jpg" alt="Nash Thames – Low Level Programming. High Level Performance." />
+  <img src="https://raw.githubusercontent.com/internashionalist/internashionalist/main/banner.jpg" alt="Nash Thames – Low Level Programming. High Level Performance." />
 </p>
 
 ## Socials:
