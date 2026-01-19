@@ -1,7 +1,6 @@
-# Nash Thames
-
-### Low-Level Programming. High-Level Performance.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/internashionalist/internashionalist/main/assets/banner.jpg" alt="Nash Thames – Low Level Programming. High Level Performance." />
+</p>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nashthames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/internashionalist) 
